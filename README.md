@@ -1,4 +1,4 @@
-# Text Editor (PWA)
+# Text Editor
 
 Link to deployed application => https://powerful-sierra-62510.herokuapp.com/
 
